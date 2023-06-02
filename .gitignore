@@ -1,0 +1,7 @@
+./flagged
+.vscode/*
+output/*.mp3
+output/*.vtt
+.env
+whisperx ./output/audio.mp3 --model large-v2 --diarize --min_speakers 2 --max_speakers 2 --hf_token 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 --output_format json --output_dir ./output
+```
