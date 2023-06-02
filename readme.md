@@ -8,5 +8,15 @@ App Demo:
 Install intructions: 
 - Install [yt-dlp](https://github.com/yt-dlp/yt-dlp#installation) using their intallation process
 - Install [WhisperX](https://github.com/m-bain/whisperX#setup-%EF%B8%8F) using their setup 
-- Run ```pip install -r requirements.txt```
 - Update your hugging_face token and rename `example.env` to `env`
+
+- Install remaining dependancies:  
+```
+pip install -r requirements.txt
+```
+
+For running the app locally, run this on terminal:
+
+```python
+python app.py
+```
