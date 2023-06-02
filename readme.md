@@ -1,4 +1,4 @@
-## Youtube captioning app using [yt-dlp](https://github.com/yt-dlp/yt-dlp) and  [WhisperX](https://github.com/m-bain/whisper) and Gradio.
+## Youtube captioning app using [yt-dlp](https://github.com/yt-dlp/yt-dlp) and  [WhisperX](https://github.com/m-bain/whisper) and [Gradio](https://github.com/gradio-app/gradio/).
 
 This code is heavily inspired by [Hamel's notes](https://hamel.dev/notes/web-scraping/transcribe-diarize.html).
 
